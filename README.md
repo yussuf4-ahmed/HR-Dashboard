@@ -40,26 +40,28 @@ Two interactive dashboards were created in **Tableau**:
 | **Tableau** | For interactive data visualization and dashboard creation |
 
 ---
+#### **Overview Dashboard**
+![Overview Dashboard](Dashboards/OverviewDashboard.png)
 
-## 📊 Overview Dashboard Insights
+### Insights
 - Strong performance observed in key regions with clear profit trends.  
 - **Top-performing regions** drive the majority of revenue, while others show room for growth.  
 - **Loyal customers** contribute significantly to profit stability.  
 - **Technology** category leads in sales, followed by Office Supplies and Furniture.
 
-### ✅ Recommendations
+### Recommendations
 - Reinforce inventory and marketing in top-performing regions.  
 - Introduce **customer loyalty programs** to retain repeat buyers.  
 - Refine **pricing and promotion strategies** for weaker product categories.
 
 ---
 
-## 👔 Employees Dashboard Insights
+### Employees Dashboard Insights
 - Top 5 employees consistently achieve above-average sales targets.  
 - Regional sales distribution shows workforce concentration in specific areas.  
 - Monthly analysis highlights high and low productivity periods — useful for resource planning.
 
-### ✅ Recommendations
+### Recommendations
 - Recognize and **reward top performers** to sustain motivation.  
 - Rebalance staff assignments to boost weaker regions.  
 - Conduct **monthly training and reviews** to enhance overall consistency.
@@ -73,5 +75,3 @@ The next phase will focus on:
 - **Integrating live data** from business systems to make dashboards production-ready and strengthen decision-making accuracy.
 
 ---
-
-### 📁 Repository Structure
