@@ -1,6 +1,6 @@
 # Human Resource Dashboard | Case Study
 
-## 🧭 Overview
+## Overview
 This project focuses on developing **two interactive dashboards — an Overview Dashboard and an Employees Dashboard —** to provide clear visibility into business performance and workforce productivity.  
 The goal is to empower decision-makers with **data-driven insights** on sales, customers, and employee performance through an intuitive and visually engaging interface.
 
@@ -9,7 +9,7 @@ The dataset was **synthetically generated using the Python Faker library**, ensu
 
 ---
 
-## 🚨 Business Problem
+## Business Problem
 The company lacked a **unified system** to monitor key business metrics such as total sales, customer distribution, and employee performance.  
 Reports were scattered across departments, making it difficult for management to make timely and informed decisions.
 
@@ -17,23 +17,23 @@ The objective was to build **centralized dashboards** that simplify performance 
 
 ---
 
-## ⚙️ Process
+## Process
 
-### 1️⃣ Data Generation
+### Data Generation
 - Used the **Python Faker library** to simulate realistic customer, sales, and employee data.  
 - Data included regions, product categories, sales amounts, and employee performance metrics.
 
-### 2️⃣ Data Cleaning & Preparation
+### Data Cleaning & Preparation
 - Cleaned and structured the dataset for Tableau import.  
 - Ensured correct data types, consistent formatting, and well-defined relationships between datasets.
 
-### 3️⃣ Dashboard Design & Development
+### Dashboard Design & Development
 Two interactive dashboards were created in **Tableau**:
 
 
 ---
 
-## 🛠️ Technology Used
+## Technology Used
 | Tool / Library | Purpose |
 |----------------|----------|
 | **Python (Faker Library)** | To generate synthetic, realistic datasets safely |
@@ -41,7 +41,7 @@ Two interactive dashboards were created in **Tableau**:
 
 ---
 #### **Overview Dashboard**
-![Overview Dashboard](Dashboards/OverviewDashboard.png)
+![Overview Dashboard](Dashboards/overview_dashboard.png)
 
 ### Insights
 - Strong performance observed in key regions with clear profit trends.  
@@ -55,6 +55,8 @@ Two interactive dashboards were created in **Tableau**:
 - Refine **pricing and promotion strategies** for weaker product categories.
 
 ---
+#### **Employee`s detail Dashboard**
+![Employee Dashboard](Dashboards/employee_details.png)
 
 ### Employees Dashboard Insights
 - Top 5 employees consistently achieve above-average sales targets.  
@@ -68,7 +70,7 @@ Two interactive dashboards were created in **Tableau**:
 
 ---
 
-## 🔮 Next Step
+## Next Step
 The next phase will focus on:
 - **Automating data updates** for real-time dashboard refreshes.  
 - Expanding with **predictive analytics** to forecast sales and performance trends.  
